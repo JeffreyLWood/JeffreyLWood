@@ -1,6 +1,6 @@
 ## Hello World 👋 
 
-I am Jeff, an artist turned coder. I made my first website in 2004 (www.jeffwoodmedia.com) for my filmmaking/photography portfolio. The interest in web development gave way to fine art and I am a recent graduate of both The New York Academy of Art (MFA Painting 2021) and Fullstack Academy (Software Engineering 2021). I am passionate about everything front end including React, design and UX. Feel free to take a look around.
+I am Jeff, an artist turned coder. I made my first website in 2004 ("www.jeffwoodmedia.com") for my filmmaking/photography portfolio. The interest in web development gave way to fine art and I am a recent graduate of both The New York Academy of Art (MFA Painting 2021) and Fullstack Academy (Software Engineering 2021). I am passionate about everything front end including React, design and UX. Feel free to take a look around.
 
 ### Here's a quick guide:
 
