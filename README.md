@@ -1,8 +1,8 @@
-### Hello World 👋 
+## Hello World 👋 
 
 I am Jeff, an artist turned coder. I made my first website in 2004 (www.jeffwoodmedia.com) for my filmmaking/photography portfolio. The interest in web development gave way to fine art and I am a recent graduate of both The New York Academy of Art (MFA Painting 2021) and Fullstack Academy (Software Engineering 2021). I am passionate about everything front end including React, design and UX. Feel free to take a look around.
 
-# Here's a quick guide:
+### Here's a quick guide:
 
 - I’m currently working on an app for artists to create a portfolio website, quickly, easily and for free: https://github.com/JeffreyLWood/stackathon
 - See my Capstone project from Fullstack Academy here: https://github.com/JeffreyLWood/Capstone
