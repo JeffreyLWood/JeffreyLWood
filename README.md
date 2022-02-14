@@ -1,5 +1,7 @@
 ## Hello World 👋 
 
+![IMG_7033](https://user-images.githubusercontent.com/75996017/153963786-076180bf-bab6-43f4-83fb-ea5d41030ff6.jpeg)
+
 I am Jeff, a recent graduate of both The New York Academy of Art (MFA Painting 2021) and Fullstack Academy (Software Engineering 2021). I am passionate about everything front end. Feel free to take a look around.
 
 ### Here's a quick guide:
